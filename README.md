@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Saharsh</h1> <br>
 <h3 align="center"> Backend developer and AI/ML developer</h3> <br/>
 
-<a href="#" target="_blank">
 - 👯 I’m looking to collaborate on  <b> Start up and Open Source Project</b> <br/>
 - 🤝 I’m looking for help with <b></b> <br/>
 - 🌱 I’m currently learning <b>Machine Learning , Deep Learning , LLM</b> <br/>
