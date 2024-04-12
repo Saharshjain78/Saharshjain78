@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Saharsh</h1> <br>
 <h3 align="center"> Backend developer and AI/ML developer</h3> <br/>
-- 🔭 I’m currently working as 
+
 <a href="#" target="_blank">
 - 👯 I’m looking to collaborate on  <b> Start up and Open Source Project</b> <br/>
 - 🤝 I’m looking for help with <b></b> <br/>
